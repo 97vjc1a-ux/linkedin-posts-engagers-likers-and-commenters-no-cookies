@@ -1,0 +1,14 @@
+[
+  {
+    "type": "likers",
+    "url_profile": "https://www.linkedin.com/in/sampleuser1",
+    "name": "Jane Doe",
+    "subtitle": "Marketing Director at Example Inc"
+  },
+  {
+    "type": "commenters",
+    "url_profile": "https://www.linkedin.com/in/sampleuser2",
+    "name": "John Smith",
+    "subtitle": "Senior Engineer at TechCorp"
+  }
+]
